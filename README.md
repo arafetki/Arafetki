@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arafetki
 - 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning Information and Communication Technologies at Higher school of communication of Tunis (SUP'COM)
+- 🌱 I’m currently studying ICT  at Higher school of communication of Tunis (SUP'COM)
 - 📫 You can reach me on my email : arafet.benkilani@supcom.tn
 
 <!---
