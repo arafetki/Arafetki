@@ -1,7 +1,7 @@
 # Hi there! 
 <p align="center">
 &nbsp;
-<a href="https://www.linkedin.com/in/arafet-ben-kilani/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="apoorvtyagi" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/arafet-ben-kilani/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
 
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
