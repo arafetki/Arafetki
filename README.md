@@ -1,7 +1,7 @@
 # Hi there! 
 <p align="center">
 &nbsp;
-<a href="https://www.linkedin.com/in/arafet-ben-kilani/" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)" alt="apoorvtyagi" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/arafet-ben-kilani/" target="blank"><img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg](https://www.linkedin.com/in/arafet-ben-kilani/)" alt="apoorvtyagi" height="30" width="30" /></a>
 <a href="https://dev.to/arafetki" target="blank"><img align="center" src="https://static.cdnlogo.com/logos/d/26/dev-to.svg" alt="apoorvtyagi" height="30" width="30" /></a>
 
 
