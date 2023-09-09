@@ -34,8 +34,10 @@
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Gitops - Infra As Code Done Right](https://dev.to/arafetki/gitops-infra-as-code-done-right-2ojg)
 - [AWS Networking Fundamentals](https://dev.to/arafetki/aws-networking-fundamentals-3b4g)
 - [Podman : An Alternative To Docker ?](https://dev.to/arafetki/podman-the-docker-alternative-or-fierce-competitor-4n3h)
+
 
 
 <!-- BLOG-POST-LIST:END -->
