@@ -11,7 +11,7 @@
 - 🌱 I'm 5th-Year **IT** Engineering Student @ [SUP'COM](https://supcom.tn/) 🏦 
 - 📝 I regulary write **technical articles** for [dev.to](https://dev.to/arafetki)
 - 💻 I use daily: **.go**, **.js / .ts**, **.py**,  **.sql**, **.yml**, **.tf**
-- 👀 I am interested in **Cloud Computing**, **DevSecOps** and **Programming**
+- 👀 I am interested in **Cloud Computing**, **Devops**, **Backend Engineering** and **Programming**
 - 📫 You can reach me on my email : arafet.benkilani@supcom.tn to **collaborate** on some projects. 
 - 🧑‍💻 Tech I work on :
 
