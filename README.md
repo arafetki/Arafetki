@@ -44,7 +44,7 @@
 
 
 ### Latest Achievements
-<a href="https://app.daily.dev/arfetk"><img src="https://api.daily.dev/devcards/52804fa0a69f4f5eb5802fe6d65ed0b7.png?r=t2k" width="400" alt="Arafet Ben Kilani's Dev Card"/></a>
+<a href="https://app.daily.dev/arfetk"><img src="https://api.daily.dev/devcards/52804fa0a69f4f5eb5802fe6d65ed0b7.png?r=t2k" width="250" alt="Arafet Ben Kilani's Dev Card"/></a>
 
 
 
