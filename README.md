@@ -17,7 +17,7 @@
 
 <p align="center">
       <img src="https://www.svgrepo.com/show/373635/go-gopher.svg" alt="golang" width="55" height="55"/>
-      <img src="https://fr.wikipedia.org/wiki/Fichier:Java_Logo.svg#/media/Fichier:Java_Logo.svg" alt="java" width="45" height="55"/>
+      <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="java" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>      
