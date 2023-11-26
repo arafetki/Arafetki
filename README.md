@@ -17,6 +17,7 @@
 
 <p align="center">
       <img src="https://www.svgrepo.com/show/373635/go-gopher.svg" alt="golang" width="55" height="55"/>
+      <img src="https://fr.wikipedia.org/wiki/Fichier:Java_Logo.svg#/media/Fichier:Java_Logo.svg" alt="java" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>      
@@ -28,7 +29,6 @@
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>      
       <img src="https://media.slid.es/uploads/1005350/images/6982390/podman.svg" alt="podman" width="60" height="50"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
 </p>
 
 
