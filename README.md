@@ -1,53 +1,70 @@
-# Hi there! 
-<p align="center">
-&nbsp;
-<a href="https://www.linkedin.com/in/arafet-ben-kilani/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
-<a href="https://gitlab.com/arfetk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg" alt="apoorvtyagi" height="20" width="20" /></a>
-
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 👋 Hi, I am Arafet Ben Kilani
-- 🌱 I'm 5th-Year **IT** Engineering Student @ [SUP'COM](https://supcom.tn/) 🏦 
-- 📝 I regulary write **technical articles** for [dev.to](https://dev.to/arafetki)
-- 💻 I use daily: **.go**, **.java**, **.js / .ts**, **.py**,  **.sql**, **.yml**, **.tf**
-- 👀 I am interested in **Cloud Computing**, **Devops**, **Backend Engineering** and **Programming**
-- 📫 You can reach me on my email : arafet.benkilani@supcom.tn to **collaborate** on some projects. 
-- 🧑‍💻 Tech I work on :
-
-<p align="center">
-      <img src="https://www.svgrepo.com/show/373635/go-gopher.svg" alt="python" width="55" height="55"/>
-      <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="python" height="67"/>
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>      
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="GITLAB" width="55" height="55"/>       
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" alt="aws" width="65" height="65"/>
-      <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" alt="terraform" width="55" height="55"/>      
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>      
-      <img src="https://media.slid.es/uploads/1005350/images/6982390/podman.svg" alt="podman" width="60" height="50"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="mysql" width="45" height="55"/>
-</p>
+<div align="center" width="50">
 
 
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [Gitops - Infra As Code Done Right](https://dev.to/arafetki/gitops-infra-as-code-done-right-2ojg)
-- [AWS Networking Fundamentals](https://dev.to/arafetki/aws-networking-fundamentals-3b4g)
-- [Podman : An Alternative To Docker ?](https://dev.to/arafetki/podman-the-docker-alternative-or-fierce-competitor-4n3h)
+<strong style="font-size:39px">Hi there!</strong>
 
-<!-- BLOG-POST-LIST:END -->
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
 
-- [View more ...](https://dev.to/arafetki)
+![Totals Hits](https://komarev.com/ghpvc/?username=Arafetki&style=flat&color=orange&label=PROFILE+VIEWS)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FArafetki&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![telegram badge](https://img.shields.io/badge/arafetki-grey?style=flat&logo=gitlab)](https://gitlab.com/arafetki) <br>
+</div>
+
+<hr></hr>
+
+<div align="center">
+    <img src="https://www.svgrepo.com/show/373635/go-gopher.svg" alt="golang" width="55" height="55"/>
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>      
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="GITLAB" width="55" height="55"/>       
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" alt="aws" width="65" height="65"/>
+    <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" alt="terraform" width="55" height="55"/>      
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>      
+    <img src="https://media.slid.es/uploads/1005350/images/6982390/podman.svg" alt="podman" width="60" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="mysql" width="45" height="55"/>
+</div>
+
+<br>
+
+```javascript
+// tools_I_use organized
+
+class About extends Me { 
+  const myTools = {  
+    ProgramingLanguages : [ "Go", "Javascript", "Java"],
+    OtherLanguages : [ "HTML", "CSS", "Yaml", "Json", "HCL" ],
+    DevOps : [ "Jira", "Gitlab-CI", "AWS CodePipeline", "ArgoCD"],
+    Container : [ "Docker", "Podman", "Kubernetes", "Docker Swarm", "Portainer"],
+    InfraAsCode : ["Terraform", "CloudFormation"],  
+    Database : [ "PostgreSQL", "Sqlite" ],    
+    OS : [ "Linux/Fedora", "Windows 11" ],
+    OtherTools : [ "Git", "Figma", "Photoshop", "Canva"]
+  };
+}
+```
+
+-  <img alt="GIF" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/Developer.gif" width="25" /> &nbsp; I’m currently Preparing for **Aws Certified SysOps Administrator**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I write **technical articles** on [***dev.to***](https://dev.to/arafetki) <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; You can reach me on my email : ***mr.arafetk@gmail.com*** <br>
 
 
-### Latest Achievements
-<a href="https://app.daily.dev/arfetk"><img src="https://api.daily.dev/devcards/52804fa0a69f4f5eb5802fe6d65ed0b7.png?r=t2k" width="250" alt="Arafet Ben Kilani's Dev Card"/></a>
+
+<div align="center" >
+
+  
+<hr></hr>
+
+**Code Cycle**<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
 
+<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
 
-
-
-
+</div>
