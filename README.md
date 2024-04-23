@@ -53,6 +53,9 @@ class About extends Me {
 
 <div align="center" >
 
+<hr></hr>
+
+<a href="https://app.daily.dev/arfetk"><img src="https://api.daily.dev/devcards/v2/BBLe7Fu2pW8fMLBy8AslH.png?r=4q2" width="356" alt="Arafet Ben Kilani's Dev Card"/></a>
   
 <hr></hr>
 
