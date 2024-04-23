@@ -53,9 +53,6 @@ class About extends Me {
 
 <div align="center" >
 
-<hr></hr>
-
-<a href="https://app.daily.dev/arfetk"><img src="https://api.daily.dev/devcards/v2/BBLe7Fu2pW8fMLBy8AslH.png?r=4q2" width="356" alt="Arafet Ben Kilani's Dev Card"/></a>
   
 <hr></hr>
 
@@ -67,6 +64,10 @@ class About extends Me {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
+
+<hr></hr>
+
+<a href="https://app.daily.dev/arfetk"><img src="https://api.daily.dev/devcards/v2/BBLe7Fu2pW8fMLBy8AslH.png?r=4q2" width="356" alt="Arafet Ben Kilani's Dev Card"/></a>
 
 <!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
 
