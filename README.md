@@ -12,42 +12,42 @@
 
 <hr></hr>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 5px">
     <img src="https://www.svgrepo.com/show/373635/go-gopher.svg" alt="golang" width="55" height="55"/>
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>      
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-    <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="GITLAB" width="55" height="55"/>       
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" alt="aws" width="65" height="65"/>
-    <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" alt="terraform" width="55" height="55"/>      
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/TypeScript_ESLint_logo.svg" alt="TypeScript" width="55" height="55"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="55" height="55"/>
+    <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="NextJs" width="55" height="55"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" alt="aws" width="55" height="55"/>
+    <img src="https://www.svgrepo.com/show/331302/azure-v2.svg" alt="azure" width="55" height="55"/>    
+    <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" alt="terraform" width="55" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>      
-    <img src="https://media.slid.es/uploads/1005350/images/6982390/podman.svg" alt="podman" width="60" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="mysql" width="45" height="55"/>
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>
+    <img src="https://utfs.io/f/ebVJRgxxawocC4teDuiy9Da4MHclRKT3BvWiNpOIZYAPQXhL" alt="Ansible" width="55" height="55"/>    
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgres" width="55" height="55"/>
 </div>
 
 <br>
 
 ```javascript
-// tools_I_use organized
+// tools_I_use 
 
 class About extends Me { 
   const myTools = {  
-    ProgramingLanguages : [ "Go", "Javascript", "Java"],
-    OtherLanguages : [ "HTML", "CSS", "Yaml", "Json", "HCL" ],
-    DevOps : [ "Jira", "Gitlab-CI", "AWS CodePipeline", "ArgoCD"],
-    Container : [ "Docker", "Podman", "Kubernetes", "Docker Swarm", "Portainer"],
-    InfraAsCode : ["Terraform", "CloudFormation"],  
-    Database : [ "PostgreSQL", "Sqlite" ],    
-    OS : [ "Linux/Fedora", "Windows 11" ],
-    OtherTools : [ "Git", "Figma", "Photoshop", "Canva"]
+    ProgramingLanguages : [ "Go", "Typescript", "Java"],
+    OtherLanguages : ["SQL" ,"HCL", "HTML", "CSS" ],
+    Cloud: ["AWS", "Azure"],
+    DevSecOps : [ "GitHub Actions", "Gitlab CI", "Semgrep", "Gitleaks"],
+    Container : [ "Docker", "Docker Swarm", "Kubernetes"],
+    InfraAsCode : ["Terraform", "CloudFormation", "Ansible"],  
+    Database : [ "Postgres", "SQlite", "Mongo" ],    
+    OS : [ "Linux/Fedora"],
+    OtherTools : [ "Postman", "Figma", "Canva"]
   };
 }
 ```
 
--  <img alt="GIF" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/Developer.gif" width="25" /> &nbsp; I’m currently Preparing for **Aws Certified SysOps Administrator**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I write **technical articles** on [***dev.to***](https://dev.to/arafetki) <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; You can reach me on my email : ***mr.arafetk@gmail.com*** <br>
+- <div style="display: flex; align-items: start;"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> You can reach me on my email:&nbsp; <strong><a href="mailto:mr.arafetk@gmail.com">mr.arafetk@gmail.com</a></strong></div>
+ 
 
 
 
@@ -64,11 +64,5 @@ class About extends Me {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
-
-<hr></hr>
-
-<a href="https://app.daily.dev/arfetk"><img src="https://api.daily.dev/devcards/v2/BBLe7Fu2pW8fMLBy8AslH.png?r=4q2" width="356" alt="Arafet Ben Kilani's Dev Card"/></a>
-
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
 
 </div>
