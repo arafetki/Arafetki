@@ -12,7 +12,7 @@
 
 <hr></hr>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 5px">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 7px">
     <img src="https://www.svgrepo.com/show/373635/go-gopher.svg" alt="golang" width="55" height="55"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/TypeScript_ESLint_logo.svg" alt="TypeScript" width="55" height="55"/>
     <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="55" height="55"/>
