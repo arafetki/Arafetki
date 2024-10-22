@@ -33,15 +33,15 @@
 
 class About extends Me { 
   const myTools = {  
-    ProgramingLanguages : [ "Go", "Typescript", "Java"],
-    OtherLanguages : ["SQL" ,"HCL", "HTML", "CSS" ],
-    Cloud: ["AWS", "Azure"],
-    DevSecOps : [ "GitHub Actions", "Gitlab CI", "Semgrep", "Gitleaks"],
+    ProgramingLanguages : [ "Go", "Typescript", "Java", "Python"],
+    OtherLanguages : ["SQL" ,"HCL", "HTML", "CSS", "YAML", "JSON" ],
+    Cloud: ["AWS", "Azure", "Vercel"],
+    DevSecOps : [ "GitHub Actions", "Gitlab CI", "Jenkins", "Semgrep", "Gitleaks"],
     Container : [ "Docker", "Docker Swarm", "Kubernetes"],
-    InfraAsCode : ["Terraform", "CloudFormation", "Ansible"],  
+    InfraAsCode : ["Terraform", "CloudFormation", "Ansible", "AWS SAM"],  
     Database : [ "Postgres", "SQlite", "Mongo" ],    
-    OS : [ "Linux/Fedora"],
-    OtherTools : [ "Postman", "Figma", "Canva"]
+    OS : ["Linux/Fedora"],
+    OtherTools : ["Postman", "Canva"]
   };
 }
 ```
