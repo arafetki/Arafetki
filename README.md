@@ -26,33 +26,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgres" width="55" height="55"/>
 </div>
 
-<br>
-
-```javascript
-// tools_I_use 
-
-class About extends Me { 
-  const myTools = {  
-    ProgramingLanguages : [ "Go", "Typescript", "Java", "Python"],
-    OtherLanguages : ["SQL" ,"HCL", "HTML", "CSS", "YAML", "JSON" ],
-    Cloud: ["AWS", "Azure", "Vercel"],
-    DevSecOps : [ "GitHub Actions", "Gitlab CI", "Jenkins", "Semgrep", "Gitleaks"],
-    Container : [ "Docker", "Docker Swarm", "Kubernetes"],
-    InfraAsCode : ["Terraform", "CloudFormation", "Ansible", "AWS SAM"],  
-    Database : [ "Postgres", "SQlite", "Mongo" ],    
-    OS : ["Linux/Fedora"],
-    OtherTools : ["Postman", "Canva"]
-  };
-}
-```
-
-- <div style="display: flex; align-items: start;"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> You can reach me on my email:&nbsp; <strong><a href="mailto:mr.arafetk@gmail.com">mr.arafetk@gmail.com</a></strong></div>
- 
-
-
-
 <div align="center" >
-
   
 <hr></hr>
 
